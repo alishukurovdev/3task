@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.AssemblyInfo.cs
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AbstractVirtualOverride\bin\Debug\net6.0\AbstractVirtualOverride.exe
+C:\Users\hp\source\repos\AbstractVirtualOverride\bin\Debug\net6.0\AbstractVirtualOverride.deps.json
+C:\Users\hp\source\repos\AbstractVirtualOverride\bin\Debug\net6.0\AbstractVirtualOverride.runtimeconfig.json
+C:\Users\hp\source\repos\AbstractVirtualOverride\bin\Debug\net6.0\AbstractVirtualOverride.dll
+C:\Users\hp\source\repos\AbstractVirtualOverride\bin\Debug\net6.0\AbstractVirtualOverride.pdb
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.dll
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\refint\AbstractVirtualOverride.dll
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.pdb
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\AbstractVirtualOverride.genruntimeconfig.cache
+C:\Users\hp\source\repos\AbstractVirtualOverride\obj\Debug\net6.0\ref\AbstractVirtualOverride.dll

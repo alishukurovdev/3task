@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|c:\\users\\hp\\source\\repos\\sabirteachertask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|c:\\users\\hp\\source\\repos\\sabirteachertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|c:\\users\\hp\\source\\repos\\sabirteachertask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|c:\\users\\hp\\source\\repos\\sabirteachertask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|c:\\users\\hp\\source\\repos\\sabirteachertask\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81473B30-1B18-4EA6-AE59-6589958CFA34}|SabirTeacherTask.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:26:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:20:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:59:56.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:54:33.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\SabirTeacherTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:50:07.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|c:\\users\\hp\\source\\repos\\abstractvirtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|solutionrelative:bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2AE45C-11C7-4033-A067-802966C12415}|AbstractVirtualOverride.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Bicycle.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Bicycle.cs",
+              "RelativeToolTip": "Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:39:46.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:00:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:19:53.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\AbstractVirtualOverride\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowEUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:09:34.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

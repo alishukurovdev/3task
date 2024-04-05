@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\SabirTeacherTask\bin\Debug\net6.0\SabirTeacherTask.exe
+C:\Users\hp\source\repos\SabirTeacherTask\bin\Debug\net6.0\SabirTeacherTask.deps.json
+C:\Users\hp\source\repos\SabirTeacherTask\bin\Debug\net6.0\SabirTeacherTask.runtimeconfig.json
+C:\Users\hp\source\repos\SabirTeacherTask\bin\Debug\net6.0\SabirTeacherTask.dll
+C:\Users\hp\source\repos\SabirTeacherTask\bin\Debug\net6.0\SabirTeacherTask.pdb
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.dll
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\refint\SabirTeacherTask.dll
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.pdb
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\SabirTeacherTask.genruntimeconfig.cache
+C:\Users\hp\source\repos\SabirTeacherTask\obj\Debug\net6.0\ref\SabirTeacherTask.dll

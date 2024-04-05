@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poli", "poli.csproj", "{FDF883E0-EFDA-48B7-A43C-DFB228D01164}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{038FBB11-7FC8-4B6B-8FE4-896016DA659D}"
+	ProjectSection(SolutionItems) = preProject
+		IAdd.cs = IAdd.cs
+		IDifference.cs = IDifference.cs
+		IDivide.cs = IDivide.cs
+		IMultiply.cs = IMultiply.cs
+		Iswim.cs = Iswim.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF883E0-EFDA-48B7-A43C-DFB228D01164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF883E0-EFDA-48B7-A43C-DFB228D01164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF883E0-EFDA-48B7-A43C-DFB228D01164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF883E0-EFDA-48B7-A43C-DFB228D01164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D657F92-B549-4758-A03D-E0AC7A57D7B8}
+	EndGlobalSection
+EndGlobal
